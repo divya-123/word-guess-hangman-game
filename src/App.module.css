@@ -1,0 +1,14 @@
+.mainBody{
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.heading{
+  font-size: 2rem;
+  text-align: center;
+  
+}
